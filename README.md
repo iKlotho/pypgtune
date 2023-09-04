@@ -1,3 +1,3 @@
 # pypgtune
 
-Python CLI tool for webapp called PgTune
+Python CLI wrapper for https://pgtune.leopard.in.ua/
